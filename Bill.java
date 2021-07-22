@@ -26,7 +26,11 @@ class Item
 
         totbill=totbill+netpr;
     }
+<<<<<<< HEAD
 // bill item m
+=======
+// bill item
+>>>>>>> abf2d0ad0dd72c4d7035d5fc21728884d4877052
     void display()
     {
         System.out.println(this.nm+"\t\t"+this.up+"\t\t"+this.qty+"\t\t"+pr+"\t\t"+dis+"\t\t"+netpr);    
