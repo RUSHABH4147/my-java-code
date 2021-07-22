@@ -31,7 +31,7 @@ class Arry
         }
     }
 }
-
+// arry 
 public class AArry 
 {
     public static void main(String[] args)
