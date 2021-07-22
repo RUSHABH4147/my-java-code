@@ -26,7 +26,7 @@ class Item
 
         totbill=totbill+netpr;
     }
-// bill
+// bill item
     void display()
     {
         System.out.println(this.nm+"\t\t"+this.up+"\t\t"+this.qty+"\t\t"+pr+"\t\t"+dis+"\t\t"+netpr);    
